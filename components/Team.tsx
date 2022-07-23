@@ -21,14 +21,14 @@ const teamCardConfig = [
   },
   {
     name: "CELINE",
-    position: "Graphic Design",
+    position: "Design/Artwork",
     image: "team3.png",
     color: "white",
     animation: "tada",
   },
   {
     name: "GRACE",
-    position: "Sound Design",
+    position: "Sound/Dev",
     image: "team4.png",
     color: "white",
     animation: "tada",
