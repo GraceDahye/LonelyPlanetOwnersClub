@@ -10,7 +10,7 @@ const roadmapCardConfig = [
     animation: "slideInLeft",
     title: "roadmapTitle1",
     description: "roadmap1",
-    color: "yellow",
+    color: "purple",
     colorDark: "purple",
   },
   {
@@ -18,7 +18,7 @@ const roadmapCardConfig = [
     animation: "slideInRight",
     title: "roadmapTitle2",
     description: "roadmap2",
-    color: "yellow",
+    color: "purple",
     colorDark: "purple",
   },
   {
@@ -26,7 +26,7 @@ const roadmapCardConfig = [
     animation: "slideInLeft",
     title: "roadmapTitle3",
     description: "roadmap3",
-    color: "yellow",
+    color: "yellowpurple",
     colorDark: "purple",
   },
   {
@@ -34,7 +34,7 @@ const roadmapCardConfig = [
     animation: "slideInRight",
     title: "roadmapTitle4",
     description: "roadmap4",
-    color: "yellow",
+    color: "purple",
     colorDark: "purple",
   },
   {
@@ -42,25 +42,9 @@ const roadmapCardConfig = [
     animation: "slideInLeft",
     title: "roadmapTitle5",
     description: "roadmap5",
-    color: "yellow",
+    color: "yellopurplew",
     colorDark: "purple",
-  },
-  {
-    justifyContent: "end",
-    animation: "slideInRight",
-    title: "roadmapTitle6",
-    description: "roadmap6",
-    color: "yellow",
-    colorDark: "purple",
-  },
-  {
-    justifyContent: "",
-    animation: "slideInLeft",
-    title: "roadmapTitle7",
-    description: "roadmap7",
-    color: "yellow",
-    colorDark: "purple",
-  },
+  },  
 ];
 
 const Roadmap: FC = () => {

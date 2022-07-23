@@ -6,31 +6,31 @@ import TeamCard from "./TeamCard";
 // @ name: 팀원 이름, position: 포지션, image: public/images에 있는 이미지 이름, color: color 이름 (모든 색상이 가능하지는 않습니다.)
 const teamCardConfig = [
   {
-    name: "h662",
-    position: "Product Manager",
+    name: "KB",
+    position: "Team Leader",
     image: "team1.png",
-    color: "blue",
+    color: "white",
     animation: "tada",
   },
   {
-    name: "h663",
-    position: "Frontend",
+    name: "NURI",
+    position: "Service, Event Planning",
     image: "team2.png",
-    color: "yellow",
+    color: "white",
     animation: "tada",
   },
   {
-    name: "h664",
+    name: "CELINE",
     position: "Graphic Design",
     image: "team3.png",
-    color: "green",
+    color: "white",
     animation: "tada",
   },
   {
-    name: "h665",
-    position: "Smart Contract",
+    name: "GRACE",
+    position: "Sound Design, Front-End",
     image: "team4.png",
-    color: "red",
+    color: "white",
     animation: "tada",
   },
 ];
