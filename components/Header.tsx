@@ -11,7 +11,7 @@ const logoImage = "logo_black.png";
 const logoImageDark = "logo_white.png";
 const openseaURL = "https://testnets.opensea.io/collection/lonelyplanetownersclub-v2";
 const discordURL = "https://discord.gg/zqfDxbxe";
-const instagramURL = "https://www.instagram.com/projectlion.io/";
+const instagramURL = "https://www.instagram.com/lpoc_official";
 
 const Header: FC = () => {
   const scrollLink = ["Story", "Roadmap", "Team"];

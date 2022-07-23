@@ -6,7 +6,7 @@ import { Link as ScrollLink } from "react-scroll";
 const titleImage = "lpoc_title.png";
 
 const Title: FC = () => {
-  const [isHover, setIsHover] = useState<boolean>(false);
+  // const [isHover, setIsHover] = useState<boolean>(false);
 
   return (
     <Flex
@@ -22,7 +22,7 @@ const Title: FC = () => {
       <Box position="relative">
         <Image
           src={`../images/${titleImage}`}
-          position="absolute"
+          // position="absolute"
           alt="title"
         />
       
