@@ -14,7 +14,7 @@ const teamCardConfig = [
   },
   {
     name: "NURI",
-    position: "Service, Event Planning",
+    position: "Service/Event",
     image: "team2.png",
     color: "white",
     animation: "tada",
@@ -28,7 +28,7 @@ const teamCardConfig = [
   },
   {
     name: "GRACE",
-    position: "Sound Design, Front-End",
+    position: "Sound Design",
     image: "team4.png",
     color: "white",
     animation: "tada",

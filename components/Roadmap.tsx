@@ -26,7 +26,7 @@ const roadmapCardConfig = [
     animation: "slideInLeft",
     title: "roadmapTitle3",
     description: "roadmap3",
-    color: "yellowpurple",
+    color: "purple",
     colorDark: "purple",
   },
   {
@@ -42,7 +42,7 @@ const roadmapCardConfig = [
     animation: "slideInLeft",
     title: "roadmapTitle5",
     description: "roadmap5",
-    color: "yellopurplew",
+    color: "purple",
     colorDark: "purple",
   },  
 ];
