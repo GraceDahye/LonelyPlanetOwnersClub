@@ -31,6 +31,7 @@ const Header: FC = () => {
       shadow="md"
       zIndex={1}
       flexDir={["column", "column", "row"]}
+      bgColor={colorMode === "light" ? “purple.100” : “purple.900”}
     >
       <Box fontWeight="bold" fontSize="lg" cursor="pointer">
         <Link href="/">
